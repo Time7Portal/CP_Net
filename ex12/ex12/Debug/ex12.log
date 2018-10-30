@@ -1,0 +1,12 @@
+﻿  ex12_14.c
+d:\downloads\과제\4학년 2학기 과제\인공지능\11주차\ex12\ex12\ex12_14.c(51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\downloads\과제\4학년 2학기 과제\인공지능\11주차\ex12\ex12\ex12_14.c(59): warning C4305: '-=': truncation from 'double' to 'float'
+d:\downloads\과제\4학년 2학기 과제\인공지능\11주차\ex12\ex12\ex12_14.c(72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\downloads\과제\4학년 2학기 과제\인공지능\11주차\ex12\ex12\ex12_14.c(86): warning C4305: '-=': truncation from 'double' to 'float'
+d:\downloads\과제\4학년 2학기 과제\인공지능\11주차\ex12\ex12\ex12_14.c(99): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\downloads\과제\4학년 2학기 과제\인공지능\11주차\ex12\ex12\ex12_14.c(106): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\downloads\과제\4학년 2학기 과제\인공지능\11주차\ex12\ex12\ex12_14.c(145): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\downloads\과제\4학년 2학기 과제\인공지능\11주차\ex12\ex12\ex12_14.c(86): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\downloads\과제\4학년 2학기 과제\인공지능\11주차\ex12\ex12\ex12_14.c(134): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ex12.vcxproj -> D:\Downloads\과제\4학년 2학기 과제\인공지능\11주차\ex12\Debug\ex12.exe
+  ex12.vcxproj -> D:\Downloads\과제\4학년 2학기 과제\인공지능\11주차\ex12\Debug\ex12.pdb (Full PDB)
